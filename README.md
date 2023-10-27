@@ -24,5 +24,6 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vicky2005-21?cardType=octocat&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicky2005-21&theme=tokyonight)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vicky2005-21&show_icons=true&theme=tokyonight)
 📝 **Thank You**
 - Gratitude: Thank you for considering my skills and experience!
