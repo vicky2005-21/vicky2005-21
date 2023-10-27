@@ -21,7 +21,8 @@
 - Personal Value: Take great pride in attention to detail
 - Commitment: Always strive to deliver exceptional results
 - 
-![](https://visitor-badge.laobi.icu/badge?page_id=vicky2005-21.vicky2005-21)
+![](https://visitor-badge.laobi.icu/badge?page_id=vicky2005-21.CharalambosIoannou)
+
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vicky2005-21?cardType=octocat&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
 
