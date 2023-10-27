@@ -8,6 +8,7 @@
 - Portfolio: https://vigneshcoder.site/
 
 💼 **Specialization**
+
 - Expertise: Cross-platform development using Python
 - Skills:
   - Python
@@ -20,9 +21,8 @@
 🔍 **Attention to Detail**
 - Personal Value: Take great pride in attention to detail
 - Commitment: Always strive to deliver exceptional results
-- 
-![](https://visitor-badge.laobi.icu/badge?page_id=vicky2005-21.CharalambosIoannou)
-
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicky2005-21&theme=tokyonight)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vicky2005-21?cardType=octocat&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
 
