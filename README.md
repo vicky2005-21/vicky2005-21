@@ -14,6 +14,7 @@
   - Deep Learning
   - React Native
   - Django
+  - TypeScript(Learning)
 - Accomplishments: Created AI models, web scraping tools, and web platforms
 
 🔍 **Attention to Detail**
