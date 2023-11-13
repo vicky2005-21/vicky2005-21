@@ -22,7 +22,7 @@
 - Personal Value: Take great pride in attention to detail
 - Commitment: Always strive to deliver exceptional results
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vicky2005-21&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicky2005-21&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vicky2005-21&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicky2005-21&theme=tokyonight)  [![GitHub Streak](https://streak-stats.demolab.com?user=vicky2005-21&theme=dark&hide_current_streak=true)](https://git.io/streak-stats)
 
 
 📝 **Thank You**
