@@ -23,7 +23,7 @@
 - Commitment: Always strive to deliver exceptional results
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vicky2005-21&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicky2005-21&theme=tokyonight) 
-![trophy](https://github-profile-trophy.vercel.app/?username=vicky2005-21)
+
 
 📝 **Thank You**
 - Gratitude: Thank you for considering my skills and experience!
