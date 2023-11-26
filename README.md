@@ -25,5 +25,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vicky2005-21&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicky2005-21&theme=tokyonight) 
 
 
-📝 **Thank You**
-- Gratitude: Thank you for considering my skills and experience!
+
