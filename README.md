@@ -5,7 +5,7 @@
 - Profession: Software Engineer
 - Location: India
 - Education: Bachelor's degree in Electrical Engineering
-- Portfolio: https://vigneshcoder.site/
+- portfolio: https://tr-portfolio-tan.vercel.app/blog
 
 💼 **Specialization**
 
