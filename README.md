@@ -5,7 +5,7 @@
 - Profession: Software Engineer
 - Location: India
 - Education: Bachelor's degree in Electrical Engineering
-- portfolio: https://tr-portfolio-tan.vercel.app/blog
+- portfolio: [https://tr-portfolio-tan.vercel.app/blog](https://tr-portfolio-tan.vercel.app/)
 
 💼 **Specialization**
 
