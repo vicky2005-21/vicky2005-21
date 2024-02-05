@@ -26,10 +26,9 @@
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently studying on **B.tech (NITR)**
+- 🔭 I’m currently studying on **B. tech (NITR)**
 
 - 🌱 I’m currently learning **Large Language Model**
 
@@ -139,7 +138,7 @@
 
 <h3 align="left">Activity:</h3>
 
-![vicky2005-21's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vicky2005-21&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![vicky2005-21's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vicky2005-21&custom_title=Vicky's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
