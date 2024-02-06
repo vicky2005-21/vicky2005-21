@@ -147,4 +147,4 @@
 
 [![An image of @vicky200521's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vicky200521)](https://holopin.io/@vicky200521)
 <br><br>
-<p align="right" > Created with 🧡 by <a href="https://tr-portfolio-tan.vercel.app/">A V Vignesh Chowdary</a></p>
+<p align="right" > Created with ❤️ by <a href="https://tr-portfolio-tan.vercel.app/">A V Vignesh Chowdary</a></p>
